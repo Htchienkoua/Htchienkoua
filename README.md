@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Htchienkoua
-- 👀 I’m interested in .java, .kt , .css , .html , .py and may other coding platforms
-- 🌱 I’m currently learning android programming and Python programming
+- 👀 I’m interested in , .py, .java, .kt , .css , .html   programming languages  
+- 🌱 I’m currently proficient in Android, Python and Web Programming.
 - 💞️ I’m looking to collaborate on alot of coding projects
 - 📫 How to reach me through my email: howardtchienkoua@yahoo.com 
 
